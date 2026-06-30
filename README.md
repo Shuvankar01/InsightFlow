@@ -164,9 +164,9 @@ The first account that signs up is automatically promoted to `admin`. Role chang
 > They will render automatically once committed:
 >
 > ```md
-> !\[Dashboard](docs/screenshots/dashboard.png)
-> !\[Users](docs/screenshots/users.png)
-> !\[Audit log](docs/screenshots/activities.png)
+> ![Dashboard](docs/screenshots/dashboard.png)
+> ![Users](docs/screenshots/users.png)
+> ![Audit log](docs/screenshots/activities.png)
 > ```
 
 ## Deployment
