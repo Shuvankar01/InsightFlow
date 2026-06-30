@@ -152,22 +152,30 @@ The first account that signs up is automatically promoted to `admin`. Role chang
 
 ## Screenshots
 
-> Add the following screenshots to `docs/screenshots/` before submitting:
->
-> - `dashboard.png` — live KPI dashboard with sparklines and event feed
-> - `analytics.png` — trend charts and segment breakdowns
-> - `users.png` — Users management with stat cards, role tooltips and invite CTA
-> - `activities.png` — Audit log with Live Monitoring badge, table \& timeline views
-> - `insights.png` — AI executive summary and recommendations
-> - `auth.png` — Sign-in / sign-up / OTP verification flow
->
-> They will render automatically once committed:
->
-> ```md
-> ![Dashboard](docs/screenshots/dashboard.png)
-> ![Users](docs/screenshots/users.png)
-> ![Audit log](docs/screenshots/activities.png)
-> ```
+### Authentication
+
+![Authentication](docs/screenshots/auth.png)
+
+### Dashboard
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Analytics
+
+![Analytics](docs/screenshots/analytics.png)
+
+### Users
+
+![Users](docs/screenshots/users.png)
+
+### Activities
+
+![Activities](docs/screenshots/activities.png)
+
+### AI Insights
+
+![AI Insights](docs/screenshots/insights.png)
+
 
 ## Deployment
 
